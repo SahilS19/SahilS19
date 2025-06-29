@@ -6,8 +6,8 @@ I'm Sarthak Raj
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’ve recently completed B.Tech - Information Technology in 2025.
+- 🔭 I’m currently working on Frontend web development...
+- 🌱 I recently completed my B.Tech in Information Technology in 2025.
 - 👯 I’m looking to collaborate on new ideas for startups and new technologies
 - 💬 Ask me about ...
 - 📫 How to reach me: 
