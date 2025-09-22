@@ -2,12 +2,10 @@
 
 I'm Sarthak Raj
 <!--
-**SahilS19/SahilS19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend web development...
-- 🌱 I recently completed my B.Tech in Information Technology in 2025.
+- 🔭 I’m currently working on Frontend web development | Data Analyst...
+- 🌱 I recently completed my B. Tech in Information Technology in 2025 from JIS College of Engineering with 7.41 CGPA.
 - 👯 I’m looking to collaborate on new ideas for startups and new technologies
 - 💬 Ask me about ...
 - 📫 How to reach me: 
