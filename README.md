@@ -3,7 +3,6 @@
 
 **Frontend Web Developer | Data Analyst | UI Designer**
 
-Welcome to my GitHub profile!  
 I’m passionate about creating modern, responsive web applications and turning data into meaningful insights.  
 I enjoy combining design and logic to build solutions that are both functional and visually appealing.
 
@@ -72,6 +71,7 @@ I enjoy combining design and logic to build solutions that are both functional a
 ## 💬 “Code. Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
