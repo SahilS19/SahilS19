@@ -1,43 +1,5 @@
 
-# 👋 Hi, I'm 
-<p align="center">
-  <svg width="760" height="140" viewBox="0 0 760 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sarthak Raj">
-    <defs>
-      <linearGradient id="grad" x1="0" x2="1">
-        <stop offset="0" stop-color="#06b6d4"/>
-        <stop offset="1" stop-color="#7c3aed"/>
-      </linearGradient>
-      <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-        <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.12"/>
-      </filter>
-    </defs>
-
-    <!-- faint filled background text for depth -->
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-          font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="46" fill="url(#grad)" opacity="0.12">
-      Sarthak Raj
-    </text>
-
-    <!-- stroked text with write-on animation -->
-    <text id="strokeText" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-          font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="46"
-          fill="none" stroke="url(#grad)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
-          stroke-dasharray="1000" stroke-dashoffset="1000" filter="url(#soft)">
-      Sarthak Raj
-      <animate attributeName="stroke-dashoffset" from="1000" to="0" begin="0s" dur="2.2s" fill="freeze" />
-      <!-- slight fade-in of solid fill once stroke completes -->
-      <set attributeName="opacity" to="1" begin="2.25s" />
-    </text>
-
-    <!-- small animated glow/pulse to finish -->
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-          font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="46"
-          fill="url(#grad)" opacity="0">
-      Sarthak Raj
-      <animate attributeName="opacity" values="0;0.0;0.6" begin="2.2s" dur="0.6s" fill="freeze" />
-    </text>
-  </svg>
-</p>
+# 👋 Hi, I'm Sarthak Raj
 
 **Frontend Web Developer | Data Analyst | UI Designer**
 
@@ -111,4 +73,5 @@ I enjoy combining design and logic to build solutions that are both functional a
 ## 💬 “Code. Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
