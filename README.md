@@ -54,6 +54,7 @@ I enjoy combining design and logic to build solutions that are both functional a
 📧 do reach me via [Email](mailto:sarthakraj744@gmail.com) :)
 
 📞 call me at: +91 8271421667
+
 ---
 
 ## 🌐 Connect With Me  
@@ -77,6 +78,7 @@ I enjoy combining design and logic to build solutions that are both functional a
 ## 💬 “Code. Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
