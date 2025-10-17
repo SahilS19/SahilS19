@@ -1,3 +1,8 @@
+# 🌟 Animated Portfolio Banner
+
+![Banner](github-banner.png)
+
+---
 
 # 👋 Hi, I'm Sarthak Raj
 
@@ -71,6 +76,7 @@ I enjoy combining design and logic to build solutions that are both functional a
 ## 💬 “Code. Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
