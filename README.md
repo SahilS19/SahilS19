@@ -27,7 +27,6 @@ I enjoy combining design and logic to build solutions that are both functional a
   
   <!-- Analytics -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Microsoft Excel/Microsoft Excel-original.svg" alt="Microsoft Excel" width="50" height="50"/>
 </p>
 
 ---
@@ -79,6 +78,7 @@ I enjoy combining design and logic to build solutions that are both functional a
 ## 💬 “Code. Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
