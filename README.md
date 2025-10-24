@@ -24,6 +24,7 @@ I enjoy combining design and logic to build solutions that are both functional a
   <!-- Backend & Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" alt="API" width="50" height="50"/>
   
   <!-- Analytics -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
@@ -38,7 +39,7 @@ I enjoy combining design and logic to build solutions that are both functional a
   📆 *September, 2021 - May,2025*  
 
 - **Advanced Data Analyst Certification** with *IIT Guwahati (Besant Technologies, Bangalore)*  
-  📊 Focus: Power BI, Excel, SQL, Python for Data Analytics
+  📊 Focus: Power BI, Excel, SQL, Python
 
 ---
 
@@ -78,6 +79,7 @@ I enjoy combining design and logic to build solutions that are both functional a
 ## 💬 “Code. Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
