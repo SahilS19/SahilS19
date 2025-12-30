@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Sarthak Raj
 
-**Frontend Web Developer | Data Analyst **
+**Frontend Web Developer | Data Analyst**
 
 # 💫 About Me:
 🔭 I’m currently working as **Data Analyst**.<br>👯 I’m looking to collaborate on Data Analyst Project.<br>🌱 I’m currently learning and growing my skills in the feild of Information Technology & Data Analyst.<br>💬 Ask me about<br>⚡ Fun fact
@@ -43,9 +43,10 @@
   
 ---
 
-## 💬 “Code. Design. Analyze. Repeat.”  
+## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
