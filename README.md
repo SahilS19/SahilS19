@@ -1,6 +1,7 @@
 # 🌟 Portfolio Banner
 
 ![Banner](cloud-banner.png)
+
 ![Banner](github-banner.png)
 
 ---
@@ -47,6 +48,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
