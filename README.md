@@ -29,7 +29,7 @@
   📆 *September, 2021 - May,2025*  
 
 - **Advanced Data Analyst Certification** with *IIT Guwahati Certification - Besant Technologies, Bangalore*  
-  📊 Focus: Power BI, Excel, SQL, Python, AWS
+  📊 Focus: Power BI, Excel, SQL, Python, AWS, Tableau
 
 ---
 
@@ -45,6 +45,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
