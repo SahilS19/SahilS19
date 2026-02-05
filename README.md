@@ -18,11 +18,24 @@
 
 <br clear="right"/>
 
-
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarthak.sahil.08) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_sarthak_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-raj08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakraj744@gmail.com) 
+## 🌐 Connect with me:
+<a href="https://www.facebook.com/sarthak.sahil.08/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook">
+</a>
+<a href="https://www.instagram.com/i_am_sarthak_sahil/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/sarthak-raj08/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
+</a>
+<a href="https://x.com/_sahilsarthak" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="X (Twitter)">
+</a>
+<a href="mailto:sarthakraj744@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail">
+</a> 
 
 ---
 
@@ -53,7 +66,7 @@
 
 ## ✍️ Random Quotes
 <p align="center">
-  <img src="motivation-quotes.png" alt="Motivational Quote" width="500"/>
+  <img src="motivation-quotes.png" alt="Motivational Quote" width="400"/>
 </p>
 
 ---
@@ -61,6 +74,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
