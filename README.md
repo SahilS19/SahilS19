@@ -9,12 +9,11 @@
 ---
 
 # 💫 About Me:
+<img align="right" alt="Data Analyst Working" width="350" src="data-analyst.jpg" />
 🔭 I’m currently working as **Data Analyst**.<br>👯 I’m looking to collaborate on a Data Analyst Project.<br>🌱 I’m currently learning and growing my skills in the field of Information Technology & Data Analytics.<br>💬 Ask me about.
 
 
 ## 🌐 Socials:
-<img align="right" alt="Data Analyst Working" width="350" src="data-analyst.jpg" />
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarthak.sahil.08) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_sarthak_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-raj08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakraj744@gmail.com) 
 
 ---
@@ -54,6 +53,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
