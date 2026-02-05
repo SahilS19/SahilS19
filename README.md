@@ -6,7 +6,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> Hi, I'm Sarthak Raj
 
-**Data Analyst**
+---
 
 # 💫 About Me:
 🔭 I’m currently working as **Data Analyst**.<br>👯 I’m looking to collaborate on a Data Analyst Project.<br>🌱 I’m currently learning and growing my skills in the field of Information Technology & Data Analytics.<br>💬 Ask me about.
@@ -14,11 +14,13 @@
 
 ## 🌐 Socials:
 <img align="right" alt="Data Analyst Working" width="350" src="data-analyst.jpg" />
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarthak.sahil.08) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_sarthak_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-raj08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakraj744@gmail.com) 
+
+---
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 
 ---
 
@@ -28,8 +30,8 @@
   📍 *JIS College of Engineering, Kalyani*  
   📆 *September, 2021 - May,2025*  
 
-- **Advanced Data Analyst Certification** with *IIT Guwahati Certification - Besant Technologies, Bangalore*  
-  📊 Focus: Power BI, Excel, SQL, Python, AWS, Tableau
+- **Data Analyst Certification** with *E&ICT - IIT Guwahati Certification - Besant Technologies, Bangalore*  
+  📊 Focus on Power BI, Excel, SQL, Python, AWS, Tableau
 
 ---
 
@@ -42,9 +44,17 @@
   
 ---
 
+## Random Quotes
+<p align="center">
+  <img src="motivation-quotes.png" alt="Motivational Quote" width="500"/>
+</p>
+
+---
+
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
