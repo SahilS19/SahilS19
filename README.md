@@ -9,10 +9,14 @@
 ---
 
 # 💫 About Me:
-<img align="right" alt="Data Analyst Working" width="350" src="data-analyst.jpg" />
+<img align="right" alt="Data Analyst Working" width="320" src="assets/data-analyst.jpg" />
 
-🔭 I’m currently working as **Data Analyst**.<br>👯 I’m looking to collaborate on a Data Analyst Project.<br>🌱 I’m currently learning and growing my skills in the field of Information Technology                & Data Analytics.<br>💬 Ask me about.
+- 🧑‍💻 I’m currently working as a **Data Analyst**
+- 🤝 I’m looking to collaborate on **Data Analyst projects**
+- 🌱 Learning **IT & Data Analytics**
+- 💬 Ask me about **anything**. I am happy to help you.
 
+<br clear="right"/>
 
 
 ---
@@ -57,6 +61,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
