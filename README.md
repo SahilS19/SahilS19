@@ -2,8 +2,6 @@
 
 ![Banner](cloud-banner.png)
 
-[![](https://visitcount.itsvg.in/api?id=SahilS19&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> Hi, I'm Sarthak Raj
@@ -17,6 +15,7 @@
 - 🤝 I’m looking to collaborate on **Data Analyst projects**
 - 🌱 Learning **IT & Data Analytics**
 - 💬 Ask me about **anything**. I am happy to help you.
+[![](https://visitcount.itsvg.in/api?id=SahilS19&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br clear="right"/>
 
@@ -83,6 +82,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
