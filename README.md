@@ -2,19 +2,18 @@
 
 ![Banner](cloud-banner.png)
 
-![Banner](github-banner.png)
-
 ---
 
-# 👋 Hi, I'm Sarthak Raj
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> Hi, I'm Sarthak Raj
 
-**Frontend Web Developer | Data Analyst**
+**Data Analyst**
 
 # 💫 About Me:
-🔭 I’m currently working as **Data Analyst**.<br>👯 I’m looking to collaborate on Data Analyst Project.<br>🌱 I’m currently learning and growing my skills in the feild of Information Technology & Data Analyst.<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as **Data Analyst**.<br>👯 I’m looking to collaborate on a Data Analyst Project.<br>🌱 I’m currently learning and growing my skills in the field of Information Technology & Data Analytics.<br>💬 Ask me about.
 
 
 ## 🌐 Socials:
+<img align="right" alt="Data Analyst Working" width="350" src="data-analyst.jpg" />
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarthak.sahil.08) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_sarthak_sahil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-raj08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthakraj744@gmail.com) 
 
 # 💻 Tech Stack:
@@ -38,7 +37,7 @@
 - Craft responsive, user-friendly web interfaces using **HTML**, **Tailwind CSS**, and **JavaScript**  
 - Build dynamic, data-driven applications with **Python** and **SQL**  
 - Analyze and visualize insights using **Power BI** and **Excel**
-- Learning cloud technologies like **AWS** and **Google Cloud** to store large amount of data using CI/CD pipelines to create instances like AWS S3, AWS lambda, etc.
+- Learning cloud technologies like **AWS** and **Google Cloud** to store large amounts of data using CI/CD pipelines to create instances like AWS S3, AWS lambda, etc.
 - Blend creativity, data, and logic to deliver impactful digital experiences.
   
 ---
@@ -46,6 +45,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
