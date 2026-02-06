@@ -62,16 +62,16 @@
 
 ---
 
-## 🚀 What I Do  
+## 🚀 What I Do:
 - Craft responsive, user-friendly web interfaces using **HTML**, **Tailwind CSS**, and **JavaScript**  
 - Build dynamic, data-driven applications with **Python** and **SQL**  
 - Analyze and visualize insights using **Power BI** and **Excel**
-- Learning cloud technologies like **AWS** and **Google Cloud** to store large amounts of data using CI/CD pipelines to create instances like AWS S3, AWS lambda, etc.
+- Learning cloud technologies like **AWS** and **Google Cloud** to store large amounts of data using CI/CD pipelines to create instances like AWS S3, AWS Lambda, etc.
 - Blend creativity, data, and logic to deliver impactful digital experiences.
   
 ---
 
-## ✍️ Random Quotes
+## ✍️ Random Quotes -
 <p align="center">
   <img src="motivation-quotes.png" alt="Motivational Quote" width="400"/>
 </p>
@@ -81,6 +81,7 @@
 ## 💬 “Design. Analyze. Repeat.”  
 
 ✨ Thanks for visiting my profile — feel free to check out my repositories and connect with me!
+
 
 
 
